@@ -1,7 +1,7 @@
 Strudl Muzik
 ===============================
 
-Izboljšava (nadgradnja) obsotječe strudl muzik baze z dodajanjem uporabniških računov in seznamov predvajanja.
+Izboljšava (nadgradnja) obstoječe strudl muzik baze z dodajanjem uporabniških računov in seznamov predvajanja.
 
 Testna stran je na voljo na [beta strani](http://beta.muzik.si). Svoja želje predloge in opažanja lahko sporočite na [stari muzik](http://muzik.si/message.php).
 
