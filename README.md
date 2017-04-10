@@ -1,23 +1,23 @@
 Strudl Muzik
 ===============================
 
-Izboljšava (nadgradnja) obsotjeèe strudl muzik baze z dodajanjem uporabniških raèunov in seznamov predvajanja.
+IzboljÅ¡ava (nadgradnja) obsotjeÄe strudl muzik baze z dodajanjem uporabniÅ¡kih raÄunov in seznamov predvajanja.
 
-Testna stran je na voljo na [beta strani](http://beta.muzik.si). Svoja elje predloge in opaanja lahko sporoèite na [stari muzik](http://muzik.si/message.php).
+Testna stran je na voljo na [beta strani](http://beta.muzik.si). Svoja Å¾elje predloge in opaÅ¾anja lahko sporoÄite na [stari muzik](http://muzik.si/message.php).
 
-##Opis storitve Strudl Muzik:
+## Opis storitve Strudl Muzik:
 
 <center>
 <h3>Glasba za vse</h3>
 
-Dostopajte do tisoèev pesmi s Strudl muzik - vse od starih favoritov do novih hitov.<br/>
+Dostopajte do tisoÄev pesmi s Strudl muzik - vse od starih favoritov do novih hitov.<br/>
 Brez prekinitev. Samo muzik.<br/>
 Zastonj, premium kakovosti in na voljo na vseh napravah.
 
 </center>
 
 
-<div style="text-align: right">Vaš Muzik.si team</div>
+<div style="text-align: right">VaÅ¡ Muzik.si team</div>
 
 <!--
 Komentarje glede legalnosti sprejema [Dave Null](/dev/null)
